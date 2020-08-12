@@ -5,7 +5,7 @@ metadata:
   alpha.build-dockerfile: "https://raw.githubusercontent.com/odo-devfiles/registry/master/devfiles/nodejs/build/Dockerfile"
   alpha.deployment-manifest: "https://raw.githubusercontent.com/odo-devfiles/registry/master/devfiles/nodejs/deploy/deployment-manifest.yaml"
 projects:
-  - name: nodejs-starter
+  - name: nodejs-starter-jingfu
     git:
       location: "https://github.com/odo-devfiles/nodejs-ex.git"
 components:
